@@ -1,2 +1,2 @@
 # pfas-maps
-pfas maps for web viewing
+Example maps of PFAS distribution
