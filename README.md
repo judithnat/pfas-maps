@@ -1,8 +1,6 @@
 # pfas-maps
-## Example maps of PFAS distribution
 
-Map of PFAS Sources
+## Example map of PFAS distribution using CIP data
 
+[View the Map](https://judithnat.github.io/pfas-maps/CIPmap/index.html)
 
-
-Some available PFAS concentration data
